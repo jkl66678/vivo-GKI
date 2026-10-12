@@ -54,15 +54,15 @@ on:
         type: boolean
         default: true
       use_bbg:
-        required: true
+        required: false
         type: boolean
         default: true
       use_kpm:
-        required: true
+        required: false
         type: boolean
         default: true
       enable_susfs:
-        required: true
+        required: false
         type: boolean
         default: true
       fix_unicode:
